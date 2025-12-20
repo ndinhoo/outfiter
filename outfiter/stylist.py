@@ -134,12 +134,15 @@ def matches_season(item: dict, season_choice: str) -> bool:
     return norm(season_choice) in item["season_tokens"]
 
 def matches_temp(item: dict, temp_value: int) -> bool:
-    # Interprétation simple:
-    # - si temp >= 20 => warm ok
-    # - si temp < 20 => cold ok
-    if temp_value >= 20:
-        return "warm" in item["temp_tokens"]
-    return "cold" in item["temp_tokens"]
+    # On ne bloque vraiment que dans les extrêmes.
+    # - Très chaud (>=25): on privilégie warm
+    # - Très froid (<=0): on privilégie cold
+    # - Entre 1 et 24: on accepte tout (sinon tu perds trop de pièces)
+    if temp_value >= 25:
+        return "warm" in item["temp_tokens"] or "cold" in item["temp_tokens"]
+    if temp_value <= 0:
+        return "cold" in item["temp_tokens"] or "warm" in item["temp_tokens"]
+    return True
 
 def pool_for(cat: str, temp_value: int, style_choice: str, season_choice: str):
     cat = norm(cat)
