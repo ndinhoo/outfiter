@@ -1,0 +1,80 @@
+ID,CLOTHES NAME,Category,Style ,Style Jean,Temp,Season,Colors,Brand
+1,BLUE BAGGY DISTRESS JEAN,Bottom,"Swaggy, Casual",Baggy,""""""" -20° """""", """""" +20° """"""","Others, Summer",,Mnml
+2,2PAC WHITE TEE,Top,"Swaggy, Joggy, Casual",,""""""" +20° """"""","Others, Summer",white,Snores
+3,AAPER PARIS WHITE TEE,Top,"Swaggy, Joggy, Casual",,""""""" +20° """"""","Others, Summer",white,Aape
+4,ASOS BREKHAUS TEE,Top,"Swaggy, Joggy, Casual",,""""""" +20° """"""","Others, Summer","blue, black",Asos
+5,BEIGE PANT ,Bottom,"Classy, Casual",Baggy,""""""" -20° """""", """""" +20° """"""","Others, Summer",beige,Asos
+6,BLACK AIRISM TEE ,Top,"Swaggy, Joggy, Casual",,""""""" +20° """"""","Others, Summer",black,Uniqlo
+7,BLACK BAGGY JEAN,Bottom,"Swaggy, Casual",Baggy,""""""" -20° """""", """""" +20° """"""","Others, Summer",black,Weekday
+8,BLACK BOXY TEE,Top,"Casual, Swaggy, Joggy",,""""""" +20° """"""","Others, Summer",black,Weekday
+9,BLACK CARGO PANT,Bottom,"Swaggy, Casual",Baggy,""""""" -20° """""", """""" +20° """"""","Others, Summer",black,Brandit
+10,BLACK COL ROULÉ,Layer,"Classy, Casual",,""""""" -20° """"""",Others,black,Bershka
+11,BLACK FIT TEE COS,Top,"Swaggy, Joggy, Casual",,""""""" +20° """"""","Others, Summer",black,Cos
+12,BLACK FLARE JEAN ,Bottom,"Swaggy, Casual",Flare,""""""" -20° """""", """""" +20° """"""","Summer, Others",black,Mnml
+13,BLACK FLARE JOGGER,Bottom,Joggy,Flare,""""""" -20° """""", """""" +20° """"""","Summer, Others",black,Mnml
+14,BLACK LOAFER,Shoes,"Swaggy, Joggy, Casual",,""""""" -20° """""", """""" +20° """""", """"""+25°""","Others, Summer",black,Asos
+15,BLACK SHORT ,Bottom,"Swaggy, Casual",,"""""""+25°""",Summer,black,Bershka
+16,BLACK DISTRESS SWEATER,Layer,"Swaggy, Casual",,""""""" -20° """"""",Others,black,Asos
+17,BLACK SWEAT ,Layer,"Casual, Swaggy, Joggy, Classy",,""""""" -20° """"""",Others,black,Asos
+18,BLACK SWEATER,Layer,"Casual, Classy",,""""""" -20° """"""",Others,black,Primark
+19,BLACK TANK TOP ,Top,"Casual, Joggy",,""""""" +20° """"""","Others, Summer",black,Cos
+20,BLACK VANTA YEEZY,Shoes,"Swaggy, Joggy, Casual",,""""""" -20° """""", """""" +20° """""", """"""+25°""","Others, Summer",black,Adidas
+21,BLACK WASHED FLARED JEAN,Bottom,"Swaggy, Casual",Flare,""""""" -20° """""", """""" +20° """"""","Summer, Others",black,Mnml
+22,BLACK ZIP HOODIE,Layer,"Casual, Swaggy, Joggy",,""""""" -20° """"""",Others,black,Weekday
+23,BLUE BAGGY JEAN,Bottom,"Swaggy, Casual",Baggy,""""""" -20° """"""","Others, Summer",,Mnml
+24,BLUE DISTRESS COLOR FLARE JEAN,Bottom,Swaggy,Flare,""""""" -20° """""", """""" +20° """"""","Summer, Others",,Mnml
+25,BLUE DISTRESS FLARE JEAN,Bottom,"Swaggy, Casual",Flare,""""""" -20° """""", """""" +20° """"""","Summer, Others",,Mnml
+26,BLUE FLARE JEAN,Bottom,"Swaggy, Casual",Flare,""""""" -20° """""", """""" +20° """"""","Summer, Others",,Mnml
+27,BLUE NAVY FLARE JOGGER,Bottom,Joggy,Flare,""""""" -20° """""", """""" +20° """"""","Summer, Others",blue navy,Mnml
+28,BLUE NAVY SERGIO TACCHINI CARDIGAN,Layer,"Classy, Casual",,""""""" -20° """"""",Others,blue navy,Sergio Tacchini
+29,BLUE NAVY ZIP HOODIE,Layer,"Casual, Swaggy, Joggy",,""""""" -20° """"""",Others,blue navy,Weekday
+30,BLUE SHORT,Bottom,"Swaggy, Casual",,"""""""+25°""",Summer,,Mnml
+31,BLUE STRIPPED TEE ,Top,"Swaggy, Joggy",,""""""" +20° """"""","Others, Summer","blue , black",Cos
+32,BROWN LOAFER,Shoes,"Swaggy, Joggy, Casual",,""""""" -20° """""", """""" +20° """""", """"""+25°""","Others, Summer",brown,Asics
+33,CAMO BAGGY CARGO ,Bottom,"Swaggy, Casual",Baggy,""""""" -20° """""", """""" +20° """"""","Others, Summer",,Mnml
+34,CAMO HANDS BLACK TEE,Top,"Swaggy, Joggy, Casual",,""""""" +20° """"""","Others, Summer","black, camo",Snores
+35,CAMO SHORT,Bottom,"Swaggy, Casual",,"""""""+25°""",Summer,camo,Mnml
+36,CARGO/JEAN PANT,Bottom,"Swaggy, Casual",Baggy,""""""" -20° """""", """""" +20° """"""","Others, Summer",,Mnml
+37,CDG BLACK CONVERSE,Shoes,"Swaggy, Joggy, Casual",,""""""" -20° """""", """""" +20° """""", """"""+25°""","Others, Summer","black, red",Converse
+38,DARK BLUE DISTRESS BAGGY JEAN,Bottom,"Swaggy, Casual",Baggy,""""""" -20° """""", """""" +20° """"""","Others, Summer",,Mnml
+39,DARK BLUE FLARE JEAN,Bottom,"Swaggy, Casual",Flare,""""""" -20° """""", """""" +20° """"""","Summer, Others",,Mnml
+40,DARK BLUE FLARE JOGGER,Bottom,Joggy,Flare,""""""" -20° """""", """""" +20° """"""","Summer, Others",blue,Mnml
+41,DARK GREY HOODIE,Layer,"Casual, Swaggy, Joggy",,""""""" -20° """"""",Others,dark grey,Weekday
+42,DARK GREY TEE,Top,"Swaggy, Joggy, Casual",,""""""" +20° """"""","Others, Summer",dark grey,Asos
+43,DIRT BAGGY JEAN,Bottom,"Swaggy, Casual",Baggy,""""""" -20° """""", """""" +20° """"""","Others, Summer",,Zara
+44,DISSIDENT TEE,Top,"Swaggy, Joggy, Casual",,""""""" +20° """"""","Others, Summer","white, pink",Dissident
+45,ELTON WHITE JHON TEE,Top,"Swaggy, Joggy, Casual",,""""""" +20° """"""","Others, Summer",white,Asos
+46,ERL VAMP SAND,Shoes,"Swaggy, Joggy, Casual",,""""""" -20° """""", """""" +20° """""", """"""+25°""","Others, Summer",beige,ERL
+47,GEL KAYANO CREAM BLACK,Shoes,"Swaggy, Joggy, Casual",,""""""" -20° """""", """""" +20° """""", """"""+25°""","Others, Summer","black, white, grey",Asics
+48,GOODFELLAS WHITE TEE,Top,"Swaggy, Joggy, Casual",,""""""" +20° """"""","Others, Summer","red, white",Goodfellas
+49,GORILLA WHITE TEE,Top,"Swaggy, Joggy, Casual",,""""""" +20° """"""","Others, Summer",white,Aape
+50,GREEN CARGO SHORT ,Bottom,"Swaggy, Casual",,"""""""+25°""",Summer,green,Asos
+51,GREEN ZIP HOODIE,Layer,"Casual, Swaggy, Joggy",,""""""" -20° """"""",Others,green,Weekday
+52,GREY COL ROULÉ,Layer,"Classy, Casual",,""""""" -20° """"""",Others,grey,Bershka
+53,GREY FLARE JOGGER,Bottom,Joggy,Flare,""""""" -20° """""", """""" +20° """"""","Summer, Others",grey,Mnml
+54,GREY HOODIE,Layer,"Casual, Swaggy, Joggy",,""""""" -20° """"""",Others,grey,Zara
+55,GREY ZIP HOODIE,Layer,"Casual, Swaggy, Joggy",,""""""" -20° """"""",Others,grey,Weekday
+56,HENRY BLACK TEE ,Top,"Swaggy, Joggy, Casual",,""""""" +20° """"""","Others, Summer","black, red",RFG
+57,HYPER BLUE AIR MAX 2.5,Shoes,"Swaggy, Joggy, Casual",,""""""" -20° """""", """""" +20° """""", """"""+25°""","Others, Summer",blue,Nike
+58,HYPER BLUE HOODIE,Layer,"Casual, Swaggy, Joggy",,""""""" -20° """"""",Others,blue,Decathlon
+59,LIGHT BLUE HOODIE,Layer,"Casual, Swaggy, Joggy",,""""""" -20° """"""",Others,light blue,Zara
+60,MULTI PATENT AF1,Shoes,"Swaggy, Joggy, Casual",,""""""" -20° """""", """""" +20° """""", """"""+25°""","Others, Summer",pink,Nike
+61,NC BLACK TEE,Top,"Swaggy, Joggy, Casual",,""""""" +20° """"""","Others, Summer","black, white",Nobody Cares
+62,NC WHITE TEE ,Top,"Swaggy, Joggy, Casual",,""""""" +20° """"""","Others, Summer","pink, white",Nobody Cares
+63,PINK AMI CARDIGAN ,Layer,"Classy, Casual",,""""""" -20° """"""",Others,pink,Ami Paris
+64,PINK PRIME AF1,Shoes,"Swaggy, Joggy, Casual",,""""""" -20° """""", """""" +20° """""", """"""+25°""","Others, Summer",green,Nike
+65,RAW BAGGY DENIM,Bottom,"Swaggy, Casual",Baggy,""""""" -20° """""", """""" +20° """"""","Others, Summer",,Weekday
+66,SUPER EARTH ,Shoes,"Swaggy, Joggy, Casual",,""""""" -20° """""", """""" +20° """""", """"""+25°""","Others, Summer",white,Adidas
+67,US FLAG BLACK TEE,Top,"Swaggy, Joggy, Casual",,""""""" +20° """"""","Others, Summer",black,Carpet Market
+68,BLACK LONGSLEEVE,"Layer, Top","Swaggy, Joggy, Casual",,""""""" -20° """"""","Others, Summer",black,Weekday
+69,WHITE FIT TEE,Top,"Casual, Joggy",,""""""" +20° """"""","Others, Summer",white,New-Yorker
+70,WHITE FIT TEE COS,Top,"Swaggy, Joggy, Casual",,""""""" +20° """"""","Others, Summer",white,Cos
+71,WHITE LONGSLEEVE,"Layer, Top","Casual, Swaggy, Joggy",,""""""" -20° """"""",Others,white,Weekday
+72,WHITE SUN TEE,Top,Swaggy,,""""""" +20° """"""","Others, Summer",white,Zara
+73,WHITE TANK TOP ,Top,"Casual, Classy, Joggy",,""""""" +20° """"""","Summer, Others",white,Cos
+74,WHITE TEE AIRISM,Top,"Casual, Joggy",,""""""" +20° """"""","Others, Summer",white,Uniqlo
+75,WHITE TEE BOXY,Top,"Casual, Classy, Joggy",,""""""" +20° """"""","Others, Summer",white,H&M
+76,YELLOW FLARE JEAN,Bottom,Swaggy,Flare,""""""" -20° """""", """""" +20° """"""","Summer, Others",yellow,Mnml
+77,YELLOW NOCTA AF1,Shoes,"Swaggy, Joggy, Casual",,""""""" -20° """""", """""" +20° """""", """"""+25°""","Others, Summer",yellow,Nike
+78,ZIDANE BLACK TEE,Top,"Swaggy, Joggy, Casual",,""""""" +20° """"""","Others, Summer","black, blue",RFG
+79,ARTE STRIPPED SHIRT ,Layer,"Classy, Casual",,""""""" +20° """""", """""" -20° """"""","Summer, Others",light blue,Arte Antwerp
