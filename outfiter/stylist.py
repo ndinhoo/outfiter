@@ -341,7 +341,6 @@ if st.button("🎲 Générer l'outfit", use_container_width=True):
         st.error("Impossible de générer un outfit. Vérifie tes catégories (Top/Bottom/Shoes/Layer) dans le CSV.")
     else:
         st.subheader("✅ Ton outfit")
-        st.write(f"**Temp :** {int(temp)}°C | **Style :** {style_choice} | **Saison :** {season_choice} | **Couleur :** {color_pref}")
 
         st.write("### 🧥 LAYER ")
         st.write(fmt(best["LAYER"]))
