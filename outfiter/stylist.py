@@ -9,7 +9,9 @@ import streamlit as st
 st.set_page_config(page_title="Outfiter", page_icon="👕", layout="centered")
 st.title("👕 Outfiter")
 
-CSV_PATH = "fits.csv"
+from pathlib import Path
+CSV_PATH = Path(__file__).with_name("fits.csv")
+
 NEUTRALS = {"black", "white", "grey", "gray", "beige", "cream", "navy", "brown"}
 
 # -----------------------------
