@@ -360,12 +360,6 @@ if st.button("🎲 Générer l'outfit", use_container_width=True):
             for ex in best_extras:
                 st.write(fmt(ex))
 
-        # Résumé "mis ensemble"
-        pieces = [best["TOP"], best["LAYER"], best["BOTTOM"], best["SHOES"]] + best_extras
-        pieces = [p["name"] for p in pieces if p]
-        st.divider()
-        st.write("🧩 **Ensemble :** " + " + ".join(pieces))
-
         if best_warnings:
             for w in best_warnings:
                 st.warning(w)
