@@ -185,13 +185,13 @@ with col1:
     temp = st.number_input("Température (°C)", value=10, step=1)
     occasion = st.selectbox("Occasion", ["casual", "soiree", "entretien"])
 with col2:
-    style_choice = st.selectbox("Style (optionnel)", ["any"] + all_styles)
-    season_choice = st.selectbox("Saison (optionnel)", ["any"] + all_seasons)
+    style_choice = st.selectbox("Style", ["any"] + all_styles)
+    season_choice = st.selectbox("Saison", ["any"] + all_seasons)
 
-color_pref = st.selectbox("Couleur (optionnel)", ["any"] + all_colors)
+color_pref = st.selectbox("Couleur", ["any"] + all_colors)
 
 must_have = st.multiselect(
-    "Imposer 1+ vêtements (optionnel)",
+    "Imposer 1+ vêtements",
     options=sorted([it["name"] for it in ITEMS])
 )
 
