@@ -7,7 +7,7 @@ import streamlit as st
 # CONFIG
 # -----------------------------
 st.set_page_config(page_title="Outfiter", page_icon="👕", layout="centered")
-st.title("👕 Outfiter")
+st.title("Outfiter")
 
 from pathlib import Path
 CSV_PATH = Path(__file__).with_name("fits.csv")
@@ -340,7 +340,7 @@ if st.button("🎲 Générer l'outfit", use_container_width=True):
     if not best:
         st.error("Impossible de générer un outfit. Vérifie tes catégories (Top/Bottom/Shoes/Layer) dans le CSV.")
     else:
-        st.subheader("TON OUTFIT")
+        st.subheader("✅ TON OUTFIT")
 
         st.write("### 🧥 LAYER ")
         st.write(fmt(best["LAYER"]))
