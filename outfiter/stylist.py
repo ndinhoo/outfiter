@@ -191,7 +191,7 @@ with col2:
 color_pref = st.selectbox("Couleur", ["any"] + all_colors)
 
 must_have = st.multiselect(
-    "Imposer 1+ vêtements",
+    "Vêtement(s) imposé(s)",
     options=sorted([it["name"] for it in ITEMS])
 )
 
