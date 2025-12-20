@@ -340,7 +340,7 @@ if st.button("🎲 Générer l'outfit", use_container_width=True):
     if not best:
         st.error("Impossible de générer un outfit. Vérifie tes catégories (Top/Bottom/Shoes/Layer) dans le CSV.")
     else:
-        st.subheader("✅ Ton outfit")
+        st.subheader("TON OUTFIT")
 
         st.write("### 🧥 LAYER ")
         st.write(fmt(best["LAYER"]))
