@@ -7,7 +7,7 @@ import streamlit as st
 # CONFIG
 # -----------------------------
 st.set_page_config(page_title="Outfiter", page_icon="👕", layout="centered")
-st.title("OUTFITER")
+st.title("👕 OUTFITER")
 
 from pathlib import Path
 CSV_PATH = Path(__file__).with_name("fits.csv")
