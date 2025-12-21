@@ -35,7 +35,7 @@ ID,CLOTHES NAME,Category,Style ,Style Jean,Temp,Season,Colors,Brand
 34,CAMO HANDS BLACK TEE,Top,"Swaggy, Joggy, Casual",,""""""" +20° """"""","Others, Summer","black, camo",Snores
 35,CAMO SHORT,Bottom,"Swaggy, Casual",,"""""""+25°""",Summer,camo,Mnml
 36,CARGO/JEAN PANT,Bottom,"Swaggy, Casual",Baggy,""""""" -20° """""", """""" +20° """"""","Others, Summer",,Mnml
-37,CDG BLACK CONVERSE,Shoes,"Swaggy, Joggy, Casual",,""""""" -20° """""", """""" +20° """""", """"""+25°""","Others, Summer","black, red",Converse
+37,CDG BLACK CONVERSE,Shoes,"Swaggy, Casual",,""""""" -20° """""", """""" +20° """""", """"""+25°""","Others, Summer","black, red",Converse
 38,DARK BLUE DISTRESS BAGGY JEAN,Bottom,"Swaggy, Casual",Baggy,""""""" -20° """""", """""" +20° """"""","Others, Summer",,Mnml
 39,DARK BLUE FLARE JEAN,Bottom,"Swaggy, Casual",Flare,""""""" -20° """""", """""" +20° """"""","Summer, Others",,Mnml
 40,DARK BLUE FLARE JOGGER,Bottom,Joggy,Flare,""""""" -20° """""", """""" +20° """"""","Summer, Others",blue,Mnml
@@ -79,6 +79,7 @@ ID,CLOTHES NAME,Category,Style ,Style Jean,Temp,Season,Colors,Brand
 78,ZIDANE BLACK TEE,Top,"Swaggy, Joggy, Casual",,""""""" +20° """"""","Others, Summer","black, blue",RFG
 
 79,ARTE STRIPPED SHIRT ,Layer,"Classy, Casual",,""""""" +20° """""", """""" -20° """"""","Summer, Others",light blue,Arte Antwerp
+
 
 
 
