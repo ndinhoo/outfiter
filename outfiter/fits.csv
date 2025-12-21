@@ -30,7 +30,7 @@ ID,CLOTHES NAME,Category,Style ,Style Jean,Temp,Season,Colors,Brand
 29,BLUE NAVY ZIP HOODIE,Layer,"Casual, Swaggy, Joggy",,""""""" -20° """"""",Others,blue navy,Weekday
 30,BLUE SHORT,Bottom,"Swaggy, Casual",,"""""""+25°""",Summer,,Mnml
 31,BLUE STRIPPED TEE ,Top,"Swaggy, Joggy",,""""""" +20° """"""","Others, Summer","blue , black",Cos
-32,BROWN LOAFER,Shoes,"Swaggy, Joggy, Casual",,""""""" -20° """""", """""" +20° """""", """"""+25°""","Others, Summer",brown,Asos 
+32,BROWN LOAFER,Shoes,"Swaggy,Classy, Casual",,""""""" -20° """""", """""" +20° """""", """"""+25°""","Others, Summer",brown,Asos 
 33,CAMO BAGGY CARGO ,Bottom,"Swaggy, Casual",Baggy,""""""" -20° """""", """""" +20° """"""","Others, Summer",,Mnml
 34,CAMO HANDS BLACK TEE,Top,"Swaggy, Joggy, Casual",,""""""" +20° """"""","Others, Summer","black, camo",Snores
 35,CAMO SHORT,Bottom,"Swaggy, Casual",,"""""""+25°""",Summer,camo,Mnml
@@ -79,3 +79,4 @@ ID,CLOTHES NAME,Category,Style ,Style Jean,Temp,Season,Colors,Brand
 78,ZIDANE BLACK TEE,Top,"Swaggy, Joggy, Casual",,""""""" +20° """"""","Others, Summer","black, blue",RFG
 
 79,ARTE STRIPPED SHIRT ,Layer,"Classy, Casual",,""""""" +20° """""", """""" -20° """"""","Summer, Others",light blue,Arte Antwerp
+
