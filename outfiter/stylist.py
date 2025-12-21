@@ -9,6 +9,14 @@ import streamlit as st
 st.set_page_config(page_title="Outfiter", page_icon="👕", layout="centered")
 st.title("👕 OUTFITER")
 
+st.sidebar.markdown("## ⚙️ Debug / Maintenance")
+
+if st.sidebar.button("🧹 Vider le cache"):
+    st.cache_data.clear()
+    st.cache_resource.clear()
+    st.success("Cache vidé. Données rechargées ✅")
+    st.rerun()
+
 from pathlib import Path
 CSV_PATH = Path(__file__).with_name("fits.csv")
 
