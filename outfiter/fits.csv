@@ -1,5 +1,5 @@
 ID,CLOTHES NAME,Category,Style ,Style Jean,Temp,Season,Colors,Brand
-1,BLUE BAGGY DISTRESS JEAN,Bottom,"Swaggy, Casual",Baggy,""""""" -20° """""", """""" +20° """"""","Others, Summer",,Mnml
+1,BLUE BAGGY DISTRESS JEAN,Bottom,"Swaggy, Casual",Baggy,""""""" -20° """""", """""" +20° """"""","Others, Summer",blue navy,Mnml
 2,2PAC WHITE TEE,Top,"Swaggy, Joggy, Casual",,""""""" +20° """"""","Others, Summer",white,Snores
 3,AAPER PARIS WHITE TEE,Top,"Swaggy, Joggy, Casual",,""""""" +20° """"""","Others, Summer",white,Aape
 4,ASOS BREKHAUS TEE,Top,"Swaggy, Joggy, Casual",,""""""" +20° """"""","Others, Summer","blue, black",Asos
@@ -79,5 +79,6 @@ ID,CLOTHES NAME,Category,Style ,Style Jean,Temp,Season,Colors,Brand
 78,ZIDANE BLACK TEE,Top,"Swaggy, Joggy, Casual",,""""""" +20° """"""","Others, Summer","black, blue",RFG
 
 79,ARTE STRIPPED SHIRT ,Layer,"Classy, Casual",,""""""" +20° """""", """""" -20° """"""","Summer, Others",light blue,Arte Antwerp
+
 
 
