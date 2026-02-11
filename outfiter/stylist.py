@@ -11,7 +11,7 @@ st.title("👕 OUTFITER")
 
 st.sidebar.markdown("## ⚙️ Debug / Maintenance")
 
-if st.sidebar.button("🧹 Vider le cache"):
+if st.sidebar.button("Vider le cache"):
     st.cache_data.clear()
     st.cache_resource.clear()
     st.success("Cache vidé. Données rechargées ✅")
